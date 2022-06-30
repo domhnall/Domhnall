@@ -1,5 +1,6 @@
 # Domhnall Murphy
 
+<samp>
 <p>
   Hi,</br>
   My name is <a href="https://domhnallmurphy.com">Domhnall Murphy</a>, and I am a software developer with over 15 years commercial experience.
@@ -26,12 +27,13 @@
   </li>
   <li>
     <a href="https://www.linkedin.com/company/vectorlogic/">
-      Domhnall
+      VectorLogic Ltd
       <img align="left" alt="VectorLogic Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
     </a>
   </li>
 </ul>
 
+</samp>
 
 
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderjojo/coderjojo) -->
